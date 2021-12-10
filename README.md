@@ -1,13 +1,12 @@
 # Resume Optimizer
 
-##### Scraper Files and Scraped Data will be uploaded soon
-
 ## Overview
 The goal of the project is to tailor a resume to the data science field to improve it's rating in a compnaies applicant tracking system to increase the odds of scoring an interview. This was done by scraping resumes from Indeed and recent job posts for data scientists/analysts positions from Indeed and Glassdoor. NLP preprocessing was applied to the resumes as well as my own. Modeling was done through TF-IDF and Latent Dirichlet Allocation. From there I measured the cosine similarity using TF-IDF between my resume and the target fields, the first being the resumes of other data scientist and then against the scraped job posts. By identifying key words and skills and then incorporating them into my resume, the cosine smilarity score increases which in turn should increase my ranking within a companies tracking system.
 
 ![](data/pics/TitlePage.jpg)
 
 ---
+###### Scraper Files and Scraped Data will be uploaded soon
 
 ## Business Understanding
 
@@ -72,30 +71,17 @@ PDF of the Jupyter Notebook.
 PDF of Presentation Presentation
 
 Repository Structure
+```
 ├── data
-│   ├── app_list.csv
-│   ├── big_rating_df.pickle
-│   ├── data_harvest.ipynb
-│   ├── library_data.csv
-│   ├── library_index.txt
-│   ├── mfui.pickle
-│   ├── modded_library_df.pickle
-│   ├── most_followed_games_users.py
-│   ├── most_played_games_users.py
-│   ├── mpui.pickle
-│   ├── steamid_list.pickle
-│   ├── steamspy_data.csv
-│   ├── steamspy_index.txt
-│   ├── top_rated_games_users.py
-│   └── trui.pickle
-├── images
-│   ├── hidden.png
-│   └── steam_bg.jpg
-├── jupyters
-│   ├── .ipynb_checkpoints
-│   └── workspace.ipynb
+│   ├── Cleaned_DS_Jobs.csv
+│   ├── Jakub_Rybicki_Resume.csv
+│   ├── Jakub_Rybicki_Resume.pdf
+│   ├── pics
+│       ├── TitlePage.jpg
 ├── .gitignore
-├── Steam_Rek_System.pdf
-├── Steam_Rek_System.ipynb
-├── environment.yml
-└── README.md
+├── Jupyter_Notebook_pdf.pdf
+├── MyResume.txt
+├── README.md
+├── Resume Optimizer Presentation.pdf
+├── ResumeOptimizer.ipynb
+├── geckodriver.exe
