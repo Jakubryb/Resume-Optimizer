@@ -1,0 +1,46 @@
+				JAKUB		RYBICKI ,				E.I.T. 			
+	2502	E.24th str.	|	Brooklyn,	NY,	11235	|	(718)-288-9978		|	Jakubryb92@gmail.com 		
+EDUCATION __________________________________________________________________________________ 													
+University at Buffalo, State University of New York | Buffalo, NY 													
+Master of Science (MS) in Civil Engineering - Geomechanics, Geotechnical and Geoenvironmental Engineering 											May-17		
+	GPA: 3.2/ 4.0 												
+Bachelors of Science (BS) in Civil Engineering											May-16		
+	GPA: 3.1/ 4.0 												
+PROFESSIONAL		EXPERIENCE________________________________________________________ 											
+Assistant Engineer | NYS		DOT	#NAME?		Engineering			Bureau | Albany,		NY	Oct. 2017 â€“ Present 		
+ï‚· 	Performed	geotechnical analysis		and	design	of	deep and shallow		foundations, earth	retaining	systems, thrust		
+	blocks and	ground	improvement methods 										
+ï‚· 	Coordinated subsurface		investigations		through		SPT	borings,	piezometers, inclinometers, and		seismic	refraction 	
+ï‚· 	Conducted	liquefaction	analysis,	settlement		analysis and		slope	stability	analysis 			
+ï‚· 	Prepared field	reports and		geotechnical	reports for bridges, retaining					walls,	culverts, expressway viaducts, sign		
+	structures and a	DOT	building in New		York State 								
+ï‚· 	Conducted dynamic	pile	load	tests on	driven	piles	during	construction phase 					
+ï‚· 	Attended meetings and		discussed project		details		with	regional	engineers,	geologists	and	contractors 	
+Research	Assistant | SUNY		University	at	Buffalo | Buffalo,			NY			 Feb. 2017 â€“ Sept. 2017 		
+ï‚· 	Geomechanical assessment of seabed subsidence/upheaval impacts on stability of offshore foundation piles 												
+ï‚· 	Developed	a numerical	model calibrated		using		case	history	data	from	literature to	assess	reservoir-induced
+	deformation	effects	on	the	bearing	capacity	of	offshore	piles	using	FLAC3D .		
+Teaching	Assistant |	SUNY	University	at	Buffalo | Buffalo,			NY			 Aug.	2016 â€“ May	2017
+ï‚· 	Conducted weekly recitation classes for the Fall Statics course as well as proctored and graded exams 												
+ï‚· 	Conducted weekly laboratory sessions and graded reports for Spring Soil mechanics and Hydrology courses 												
+Engineering Intern | Midland Asphalt Materials Inc. | Buffalo, NY											May 2016 â€“ Aug. 2016		
+ï‚· 	Completed pavement preservation projects using					chip sealing, Fibermat, Novachip, crack sealing, and cold mix paving across							
+	the states of New York and Pennsylvania 												
+ï‚· 	Conducted laboratory tests on pavement materials (penetration tests, viscosity tests, specific gravity, sieve analysis, etc.) 												
+ï‚· 	Utilized lean-management methods to improve the construction process by lower lower project costs 												
+Horizontal Construction Engineer (12N) | U.S. Army National Guard | Horseheads, NY 											 Aug. 2012 â€“ Aug. 2015		
+ï‚· 	Operated motorized graders, bulldozers, scrapers, loaders, excavators, trucks and rollers to excavate, move and grade earth. 												
+ï‚· 	Worked with a team on completing multiple				engineering projects and operations including land clearance, surveying, road								
+	construction, drainage and demolition in various areas in New York State 												
+ï‚· 	Provided aid to impacted areas during NY state emergencies through the use of heavy construction equipment 												
+TECHNICAL	SKILLS	AND QUALIFICATIONS_____________________________________________ 											
+Software Experience:		 FLAC3D, AutoCAD, MicroStation, LPile, GROUP, GRLWeap, FB-MultiPier, PYWall, ArcGIS, Matlab, STAAD-Pro, and											
+â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦.. Microsoft Office programs (Excel, PowerPoint, etc.) 													
+Relevant Coursework:		 Earthquake Engineering and Foundation Dynamics, Geographical Information Systems (GIS), Tunneling and											
+â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦ .Reservoir Engineering,				Advanced Mechanics of Solids, Structural Reliability and Safety, Groundwater Engineering,									
+â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦ Foundation Engineering, Steel Design, Construction Estimating and Project Management 													
+PUBLICATIONS__________________________________________________________________ 													
+1	Rybicki, J., & Atefi Monfared, K. A Numerical Study of Reservoir-induced Subsidence and Upheaval Effects on Bearing Capacity of												
+	Offshore Piles. International Foundations Congress and Equipment Expo (IFCEE), Orlando, Florida, March 2018. 												
+2	Atefi Monfared, K. & Rybicki, J. Production versus injection induced poroelasticity surrounding wells. Journal of Petroleum												
+	Science and Engineering, Volume 162, March 2018, Pages 102-113. 												
